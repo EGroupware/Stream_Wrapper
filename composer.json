@@ -29,6 +29,7 @@
     },
     "replace": {
         "pear-pear.horde.org/Horde_Stream_Wrapper": "2.*",
+        "pear-pear.horde.org/horde_stream_wrapper": "2.*",
         "pear-horde/Horde_Stream_Wrapper": "2.*"
     },
     "autoload": {
